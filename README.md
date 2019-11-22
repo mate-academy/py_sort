@@ -1,6 +1,6 @@
 # py_sort
 
-Sort a list in-plaec without using built-in functions (sort(), sorted(), etc)
+Sort a list in-place without using built-in functions (sort(), sorted(), etc)
 
 To deploy project on your local machine create new virtual environment and execute this command:
 

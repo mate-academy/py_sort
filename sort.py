@@ -14,6 +14,5 @@ def sort(nums: List[int]):
         while past_i >= 0 and nums[past_i] > item_to_insert:
             nums[past_i + 1] = nums[past_i]
             past_i -= 1
-        # Вставляем элемент
         nums[past_i + 1] = item_to_insert
     return nums
